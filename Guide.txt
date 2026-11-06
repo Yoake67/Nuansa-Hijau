@@ -1,0 +1,5 @@
+Akses ke halaman utama : localhost/NuansaHijau/
+akses ke halaman admin : localhost/NuansaHijau/administrator
+login user : fajar@gmail.com : tamvan
+login admin : user :admin | password : admin
+nama database : nuansa_hijau
