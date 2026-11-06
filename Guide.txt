@@ -1,0 +1,5 @@
+Akses ke halaman utama : localhost/GlobalCom/
+akses ke halaman admin : localhost/GlobalCom/administrator
+login user : fajar@gmail.com : 123
+login admin : user :admin | password : admin
+nama database : ecom_global
